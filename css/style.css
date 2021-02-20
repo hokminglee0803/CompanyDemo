@@ -98,7 +98,7 @@ hr {
 	bottom: -1px;
 	width: 0;
 	height: 2px;
-	background: linear-gradient(to right, #001100 0%, #001100 100%);
+	background: linear-gradient(to right, #fff 0%, #fff 100%);
 	content: "";
 	transition: width 0.2s;
 }
@@ -115,7 +115,7 @@ hr {
 	bottom: -1px !important;
 	width: 100% !important;
 	height: 2px !important;
-	background: linear-gradient(to right, #001100 0%, #001100 100%) !important;
+	background: linear-gradient(to right, #fff 0%, #fff 100%) !important;
 	content: "" !important;
 	transition: width 0.2s !important;
 }
